@@ -14,6 +14,7 @@
 
 ## GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunobeneh&theme=midnight-purple&show_icons=true)
+
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brunobeneh&bg_color=000&border_color=FFFFFF&title_color=9343EE&text_color=9343EE)
 
 ## My Contribution
