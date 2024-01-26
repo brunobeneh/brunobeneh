@@ -1,8 +1,8 @@
 👋 Hi, I’m @brunobeneh. I'm from Brasil, still living here.
 
-👀 I’m interested in Cyber Security, Development and Data Science.
+👀 I’m interested in Cyber Security, Development and DevOps.
 
-🌱 I’m currently learning WebDev, Python, Ethical Hacking and Data Science.
+🌱 I’m currently learning Ethical Hacking, Git (GitHub and GitLab), DevOps, Python and GO.
 
 💞️ I’m looking to collaborate on everything I can.
 
